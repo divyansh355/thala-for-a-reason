@@ -20,8 +20,8 @@
 
 #form {
     background: whitesmoke;
-    height: 600px;
-    width: 600px;
+    height: 570px;
+    width: 550px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,8 +34,8 @@
     display: none;
     border-radius: 10px;
     margin-bottom: 5px;
-    height: 450px;
-    width: 450px;
+    height: 400px;
+    width: 400px;
 }
 
 #submitButton {
@@ -63,18 +63,17 @@
 }
 
 #inputBox {
+    margin-top: 10px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-weight: 500;
-    font-size: .8vw;
     color: #fff;
+    height: 35px;
     background-color: rgb(28, 28, 30);
     box-shadow: 0 0 .4vw rgba(0, 0, 0, 0.5), 0 0 0 .15vw transparent;
     border-radius: 0.4vw;
     border: none;
     outline: none;
-    padding: 1vw;
-    max-width: 190px;
     transition: .4s;
+    padding: 5px;
 }
 
 #inputBox:hover {
@@ -87,134 +86,4 @@
 
 #form {
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-}
-
-
-
-.social-platform {
-    position: absolute;
-    bottom: 0;
-    right: 2%;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5em;
-}
-
-.up {
-    display: flex;
-    flex-direction: row;
-    gap: 0.5em;
-}
-
-.down {
-    display: flex;
-    flex-direction: row;
-    gap: 0.5em;
-}
-
-.card1 {
-    width: 60px;
-    height: 60px;
-    outline: none;
-    border: none;
-    background: white;
-    border-radius: 90px 5px 5px 5px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    transition: .2s ease-in-out;
-}
-
-.reddit {
-    margin-top: 1.5em;
-    margin-left: 1.2em;
-    fill: #cc39a4;
-}
-
-.card2 {
-    width: 60px;
-    height: 60px;
-    outline: none;
-    border: none;
-    background: white;
-    border-radius: 5px 90px 5px 5px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    transition: .2s ease-in-out;
-}
-
-.twitter {
-    margin-top: 1.5em;
-    margin-left: -.9em;
-    fill: #03A9F4;
-}
-
-.card3 {
-    width: 60px;
-    height: 60px;
-    outline: none;
-    border: none;
-    background: white;
-    border-radius: 5px 5px 5px 90px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    transition: .2s ease-in-out;
-}
-
-.github {
-    margin-top: -.6em;
-    margin-left: 1.2em;
-}
-
-.card4 {
-    width: 60px;
-    height: 60px;
-    outline: none;
-    border: none;
-    background: white;
-    border-radius: 5px 5px 90px 5px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    transition: .2s ease-in-out;
-}
-
-.linkedin {
-    margin-top: -.9em;
-    margin-left: -1.2em;
-    fill: #8c9eff;
-}
-
-.card1:hover {
-    cursor: pointer;
-    scale: 1.1;
-    background-color: whitesmoke;
-}
-
-.card1:hover .reddit {
-    fill: white;
-}
-
-.card2:hover {
-    cursor: pointer;
-    scale: 1.1;
-    background-color: #03A9F4;
-}
-
-.card2:hover .twitter {
-    fill: white;
-}
-
-.card3:hover {
-    cursor: pointer;
-    scale: 1.1;
-    background-color: black;
-}
-
-.card3:hover .github {
-    fill: white;
-}
-
-.card4:hover {
-    cursor: pointer;
-    scale: 1.1;
-    background-color: #8c9eff;
-}
-
-.card4:hover .linkedin {
-    fill: white;
 }
