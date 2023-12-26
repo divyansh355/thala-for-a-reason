@@ -11,9 +11,15 @@ const App = () => {
     backgroundVideoRef.current.style.display = "block";
 
     if (inputLength === 7) {
-      backgroundVideoRef.current.src = "thala.mp4";
+            backgroundVideoRef.current.src = "thala.mp4";
     } else if (inputBoxRef.current.value === "7") {
-      backgroundVideoRef.current.src = "nothing.mp4";
+          backgroundVideoRef.current.src = "nothing.mp4";
+    }else if (inputBoxRef.current.value === "ms") {
+          backgroundVideoRef.current.src = "thala.mp4";
+    }else if (inputBoxRef.current.value === "dhoni") {
+          backgroundVideoRef.current.src = "thala.mp4";
+    }else if (inputBoxRef.current.value === "sakshi") {
+          backgroundVideoRef.current.src = "thala.mp4";
     } else {
       backgroundVideoRef.current.src = "moyemoye.mp4";
     }
