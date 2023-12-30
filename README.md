@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<a href="https://ibb.co/1ZPx5sP"><img src="https://i.ibb.co/JnGP4xG/thala-for-a-reason.png" alt="thala-for-a-reason" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JRsZ1WJ.png" alt="JRsZ1WJ.png" border="0"></a>
 
 <h2>🛠️ Installation Steps:</h2>
 
