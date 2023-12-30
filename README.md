@@ -1,8 +1,46 @@
-# React + Vite
+<h1 align="center" id="title">Thala For a Reason</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center"><img src="https://socialify.git.ci/dev4thedeveloper/thala-for-a-reason/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-Currently, two official plugins are available:
+<h2>🚀 Demo</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://github.com/dev4thedeveloper/thala-for-a-reason](https://github.com/dev4thedeveloper/thala-for-a-reason)
+
+<h2>Project Screenshots:</h2>
+
+<a href="https://ibb.co/1ZPx5sP"><img src="https://i.ibb.co/JnGP4xG/thala-for-a-reason.png" alt="thala-for-a-reason" border="0"></a>
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Open Shell/Terminal :</p>
+
+```
+git clone https://github.com/dev4thedeveloper/thala-for-a-reason
+```
+
+<p>2. Move to that directory :</p>
+
+```
+cd thala-for-a-reason
+```
+
+<p>3. To install all the dependencies :</p>
+
+```
+npm install
+```
+
+<p>4. To run project</p>
+
+```
+npm run dev
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React.js
+*   Vite.js
