@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/dev4thedeveloper/thala-for-a-reason](https://github.com/dev4thedeveloper/thala-for-a-reason)
+[https://thala-for-a-reason-7.netlify.app/](https://thala-for-a-reason-7.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
